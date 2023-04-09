@@ -18,7 +18,6 @@
 * [generate_anki](https://github.com/alberto-poncelas/generate_anki): Tool for building Anki decks from a file. <img src="https://img.shields.io/badge/-Python-white?style=plastic&logo=python&logoColor=blue">
 * [romanization_wrapper](https://github.com/alberto-poncelas/romanization_wrapper): A tool for romanazing different languages into latin alphabet <img src="https://img.shields.io/badge/-Python-white?style=plastic&logo=python&logoColor=blue">
 * [Thai Writer](https://github.com/alberto-poncelas/thai_writer): Tool for helping to write Thai words. <img src="https://img.shields.io/badge/-Python-white?style=plastic&logo=python&logoColor=blue"><img src="https://img.shields.io/badge/-Flask-white?style=plastic&logo=Flask&logoColor=black"><img src="https://img.shields.io/badge/-JQuery-white?style=plastic&logo=Jquery&logoColor=blue">
-* [Language Helper Tool](https://github.com/alberto-poncelas/language_helper_tool): A tool for language learning. <img src="https://img.shields.io/badge/-Python-white?style=plastic&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/-Flask-white?style=plastic&logo=Flask&logoColor=black"> <img src="https://img.shields.io/badge/-JQuery-white?style=plastic&logo=Jquery&logoColor=blue"> <img src="https://img.shields.io/badge/-SQLite-white?style=plastic&logo=SQLite&logoColor=blue">
 
 
 
